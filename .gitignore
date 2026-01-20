@@ -1,1 +1,5 @@
 data/02_preprocessing/
+workflow/98_notebooks/00_preprocessing/cache/srv-ext_home-asbarros-ifs-ADA-SHARED-projects-BSSantos-TRANS_017-data-01_cellranger_output-Sample_1-outs-filtered_feature_bc_matrix-matrix.h5ad
+workflow/98_notebooks/00_preprocessing/cache/srv-ext_home-asbarros-ifs-ADA-SHARED-projects-BSSantos-TRANS_017-data-01_cellranger_output-Sample_2-outs-filtered_feature_bc_matrix-matrix.h5ad
+workflow/98_notebooks/00_preprocessing/cache/srv-ext_home-asbarros-ifs-ADA-SHARED-projects-BSSantos-TRANS_017-data-01_cellranger_output-Sample_3-outs-filtered_feature_bc_matrix-matrix.h5ad
+workflow/98_notebooks/00_preprocessing/cache/srv-ext_home-asbarros-ifs-ADA-SHARED-projects-BSSantos-TRANS_017-data-01_cellranger_output-Sample_4-outs-filtered_feature_bc_matrix-matrix.h5ad
